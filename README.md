@@ -1,0 +1,1 @@
+This is an exercise to write a simple console rock-pape-scissors game to learn javascript.
